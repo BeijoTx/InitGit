@@ -1,0 +1,2 @@
+Olá, estou acessando este documento pelo editor "nano" diretamente pelo terminal do Git.
+Espero que dê tudo certo e lembre-se: Java >>>>> Python
